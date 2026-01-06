@@ -1,0 +1,10 @@
+grakel
+scikit-optimize
+torch-geometric
+pandas
+networkx
+torch
+scikit-learn
+matplotlib
+numpy<2
+tqdm
